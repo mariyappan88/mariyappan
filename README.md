@@ -1,11 +1,11 @@
 # Hi there,
 
-# Mariyappan
+# Mariyappan - Technical Lead @ Covalense Global
 
 **Email:** a.mariyappan88@gmail.com
 **Phone:** +91 98948 99532 
-**LinkedIn:** (https://www.linkedin.com/in/mariyappan-alagaiah-2901244b/)  
-**GitHub:** (https://github.com/mariyappan88/mariyappan/edit/main/README.md)
+**LinkedIn:** [Profile] (https://www.linkedin.com/in/mariyappan-alagaiah-2901244b/)  
+**GitHub:** [Profile] (https://github.com/mariyappan88/mariyappan/edit/main/README.md)
 
 ---
 
