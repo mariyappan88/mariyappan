@@ -1,4 +1,4 @@
-# Hi there,
+![image](https://github.com/user-attachments/assets/b73f55d9-1315-4b96-98b5-7375e65f1db0)# Hi there,
 
 # Mariyappan - Technical Lead @ Covalense Global
 
@@ -6,7 +6,6 @@
 - **Phone:** +919894899532 
 - **LinkedIn:** [Profile](https://www.linkedin.com/in/mariyappan-alagaiah-2901244b/)  
 - **GitHub:** [Profile](https://github.com/mariyappan88/mariyappan/edit/main/README.md)
-
 ---
 
 ## Professional Summary
@@ -58,7 +57,7 @@ Feb-2019 - Feb-2020
 
 ****  
 KM Medicalsoft pvt ltd, Coimbatore  
-Feb-2019 - Feb-2020
+Jan-2018 - Feb-2019
 
 - Worked on the enhancement tasks in the existing project.
 - Handling the project individually.
@@ -68,7 +67,7 @@ Feb-2019 - Feb-2020
 
 ****  
 Technoduce info solutions pvt ltd, Coimbatore  
-Feb-2015 - Feb-2017
+Apr-2015 - Dec-2017
 
 - Interacted with clients and prepared weekly reports and tracked the application complete process.
 - Handling the project individually.
@@ -76,7 +75,7 @@ Feb-2015 - Feb-2017
 
 ****  
 Univedge technologies, Coimbatore  
-Feb-2011 - Feb-2015
+Jan-2011 - Mar-2015
 
 - Install Hyip script, Change complete design, PSD to HTML conversion, Checking cross browser compatibility and fixing issues.
 - Worked as one of the team members and developed the project.
