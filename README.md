@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/b73f55d9-1315-4b96-98b5-7375e65f1db0)# Hi there,
+# Hi there,
 
 # Mariyappan - Technical Lead @ Covalense Global
 
