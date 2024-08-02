@@ -10,12 +10,12 @@
 ---
 
 ## Professional Summary
- Over all 12 years of extensive experience in web development and a strong background in various technologies. 
- Proficient in Laravel and Yii, MySQL with a deep understanding of MVC architecture and RESTful API development.
- Skilled in database design, optimization, and complex query handling. 
- Experienced in HTML, CSS, Angular, and jQuery, ensuring responsive and user-friendly interfaces.
- Knowledgeable in Docker for containerization and AWS services for cloud-based deployments, enhancing the scalability and reliability of applications. 
- Competent in using Node.js for server-side development, enabling efficient handling of asynchronous processes and real-time applications.
+- Over all 12 years of extensive experience in web development and a strong background in various technologies. 
+- Proficient in Laravel and Yii, MySQL with a deep understanding of MVC architecture and RESTful API development.
+- Skilled in database design, optimization, and complex query handling. 
+- Experienced in HTML, CSS, Angular, and jQuery, ensuring responsive and user-friendly interfaces.
+- Knowledgeable in Docker for containerization and AWS services for cloud-based deployments, enhancing the scalability and reliability of applications. 
+ - Competent in using Node.js for server-side development, enabling efficient handling of asynchronous processes and real-time applications.
 
 
 ---
